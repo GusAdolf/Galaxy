@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+E:\Gustavo\UNIVERSIDAD\UPS\Pasantias Fisa Group\MODULO RELEASE\Maven\EjercicioPractico2\Galaxy\.metadata\.plugins\org.eclipse.jdt.core
+2838836672.index
+157573272.index
+16470542.index
+792328074.index
+4000522380.index
+1985253774.index

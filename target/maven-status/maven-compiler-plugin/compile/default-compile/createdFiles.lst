@@ -1,0 +1,12 @@
+com\fisa\controller\MainFileController.class
+com\fisa\model\RomanNumerals.class
+com\fisa\Main.class
+com\fisa\model\RomanNumber.class
+com\fisa\model\Product.class
+com\fisa\controller\DictionaryController.class
+com\fisa\model\Word.class
+com\fisa\model\LineCode.class
+com\fisa\controller\RomanNumeralsController.class
+com\fisa\model\Token.class
+com\fisa\model\Dictionary.class
+com\fisa\model\MainFile.class
